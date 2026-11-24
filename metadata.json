@@ -1,0 +1,10 @@
+{
+  "name": "NISWARO AI",
+  "description": "All-in-one intelligent AI productivity operating system combining AI chat, learning, content creation, software development, research, and personal project management.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
